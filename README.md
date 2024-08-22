@@ -3,7 +3,7 @@
 This script helps automate the process of listing roles and role policies while working on an AWS environment.
 It obviously needs the correct permissions to work correctly, so beware of which user you have while running it !
 
-# Syntax:
+### Syntax:
 
 ```
 ./iam_roles.sh <profile_name>
